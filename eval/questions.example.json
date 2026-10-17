@@ -1,0 +1,12 @@
+[
+  {
+    "question": "What was the group's total income for the year?",
+    "source": "your_annual_report.pdf",
+    "pages": [12],
+    "keywords": ["total income"]
+  },
+  {
+    "question": "Who is the Chief Executive Officer?",
+    "keywords": ["chief executive officer"]
+  }
+]

@@ -1,0 +1,122 @@
+[
+  {
+    "question": "What was LSEG's total income excluding recoveries for 2025?",
+    "answer": "£8,986 million (up 5.8% reported, 7.1% organic)",
+    "source": "lseg-2025-preliminary-results-rns-26feb2026.pdf", "pages": [1, 10],
+    "keywords": ["8,986"]
+  },
+  {
+    "question": "What was adjusted basic earnings per share in 2025?",
+    "answer": "420.6 pence (2024: 363.5 pence)",
+    "source": "lseg-2025-preliminary-results-rns-26feb2026.pdf", "pages": [12],
+    "keywords": ["420.6"]
+  },
+  {
+    "question": "What was basic earnings per share in 2025?",
+    "answer": "238.4 pence (2024: 128.8 pence), up 85.1%",
+    "source": "lseg-2025-preliminary-results-rns-26feb2026.pdf", "pages": [1, 10, 12],
+    "keywords": ["238.4"]
+  },
+  {
+    "question": "What final dividend did the Board propose for 2025?",
+    "answer": "103.0 pence per share",
+    "source": "lseg-2025-preliminary-results-rns-26feb2026.pdf", "pages": [13],
+    "keywords": ["final dividend of 103.0"]
+  },
+  {
+    "question": "What was the total dividend for 2025 and how much did it increase?",
+    "answer": "150.0 pence per share, a 15.4% increase",
+    "source": "lseg-2025-preliminary-results-rns-26feb2026.pdf", "pages": [13],
+    "keywords": ["150.0 pence"]
+  },
+  {
+    "question": "How much further share buyback does LSEG plan to execute?",
+    "answer": "£3 billion over the next 12 months (by February 2027)",
+    "source": "lseg-2025-preliminary-results-rns-26feb2026.pdf", "pages": [1, 8],
+    "keywords": ["£3 billion"]
+  },
+  {
+    "question": "How much was the 2025 share buyback?",
+    "answer": "£2.1 billion",
+    "source": "lseg-2025-preliminary-results-rns-26feb2026.pdf", "pages": [8],
+    "keywords": ["£2.1 billion"]
+  },
+  {
+    "question": "How fast did Risk Intelligence income grow in 2025 on an organic basis?",
+    "answer": "11.7% organic growth (income £579 million)",
+    "source": "lseg-2025-preliminary-results-rns-26feb2026.pdf", "pages": [2, 10],
+    "keywords": ["Risk Intelligence 579"]
+  },
+  {
+    "question": "What was adjusted operating profit in 2025?",
+    "answer": "£3,506 million (2024: £3,165 million), up 14.3%",
+    "source": "lseg-2025-preliminary-results-rns-26feb2026.pdf", "pages": [4, 12],
+    "keywords": ["3,506"]
+  },
+  {
+    "question": "What was LSEG's net debt at the end of 2025?",
+    "answer": "£7,598 million (operating net debt £8,175 million)",
+    "source": "lseg-2025-preliminary-results-rns-26feb2026.pdf", "pages": [21],
+    "keywords": ["7,598"]
+  },
+  {
+    "question": "What was total income excluding recoveries in H1 2026?",
+    "answer": "£4,799 million (H1 2025: £4,489 million), up 6.9% reported and 8.4% constant currency",
+    "source": "lseg-interim-report-h1-2026-30july2026.pdf", "pages": [1, 10],
+    "keywords": ["4,799"]
+  },
+  {
+    "question": "What was adjusted basic EPS in the first half of 2026?",
+    "answer": "244.9 pence (H1 2025: 208.9 pence)",
+    "source": "lseg-interim-report-h1-2026-30july2026.pdf", "pages": [13],
+    "keywords": ["244.9"]
+  },
+  {
+    "question": "What was the raised 2026 organic constant currency income growth guidance?",
+    "answer": "7.0-7.5%",
+    "source": "lseg-interim-report-h1-2026-30july2026.pdf", "pages": [2],
+    "keywords": ["7.0-7.5%"]
+  },
+  {
+    "question": "What was total income in the 2019 financial year?",
+    "answer": "£2,314 million (2018: £2,135 million)",
+    "source": "lseg-annual-report-2019.pdf", "pages": [4, 55],
+    "keywords": ["£2,314"]
+  },
+  {
+    "question": "What was adjusted basic earnings per share in 2018?",
+    "answer": "173.8 pence (2017: 148.7 pence)",
+    "source": "lseg-annual-report-2018.pdf", "pages": [5],
+    "keywords": ["173.8"]
+  },
+  {
+    "question": "What final dividend per share was proposed for 2019?",
+    "answer": "49.9 pence per share (2018: 43.2 pence)",
+    "source": "lseg-annual-report-2019.pdf", "pages": [7],
+    "keywords": ["49.9 pence"]
+  },
+  {
+    "question": "What was the total dividend proposed in the 2020 annual report?",
+    "answer": "75.0 pence per share, up 7%",
+    "source": "lseg-annual-report-2020.pdf", "pages": [4],
+    "keywords": ["75.0 pence"]
+  },
+  {
+    "question": "Which acquisition completed in January 2021 transforms LSEG?",
+    "answer": "Refinitiv",
+    "source": "lseg-annual-report-2020.pdf", "pages": [3, 4],
+    "keywords": ["Refinitiv in January 2021"]
+  },
+  {
+    "question": "What emissions reduction target does LSEG have for Scope 1 and 2?",
+    "answer": "50% reduction in absolute Scope 1 and 2 GHG emissions",
+    "source": "lseg-sustainability-report.pdf", "pages": [5],
+    "keywords": ["50% reduction"]
+  },
+  {
+    "question": "Roughly how many employees does LSEG have?",
+    "answer": "More than 26,000",
+    "source": "lseg-annual-report-2025.pdf", "pages": [47],
+    "keywords": ["26,000"]
+  }
+]

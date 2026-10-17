@@ -1,0 +1,9 @@
+# Core (everything runs locally)
+sentence-transformers>=2.7
+faiss-cpu>=1.8
+pypdf>=4.0
+numpy>=1.26
+requests>=2.31
+
+# Optional: web UI (app.py)
+streamlit>=1.35

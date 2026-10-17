@@ -1,0 +1,11 @@
+__pycache__/
+*.pyc
+.venv/
+.env
+.ipynb_checkpoints/
+
+# Large / generated artefacts - rebuild with scripts/download_docs.sh and build_index.py
+data/raw/*
+!data/raw/.gitkeep
+index/*
+!index/.gitkeep
