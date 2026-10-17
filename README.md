@@ -2,7 +2,7 @@
 
 Ask questions about annual reports and results announcements and get answers with page-level citations. **The whole pipeline runs on your machine**: local embeddings (sentence-transformers), local vector search (FAISS) and a local LLM served by Ollama. There are no API keys, no cloud calls and no training; only pre-trained models are used.
 
-Built and evaluated on 11 London Stock Exchange Group (LSEG) filings, about 900 pages in total.
+Built and evaluated on 11 London Stock Exchange Group (LSEG) filings, about 1,100 pages in total.
 
 ---
 
@@ -107,7 +107,7 @@ Get documents into `data/raw/`. Either run the bundled script for the LSEG filin
 
 ```bash
 bash scripts/download_docs.sh
-python build_index.py            # about 2 min on CPU for ~900 pages
+python build_index.py            # about 2 min on CPU for ~1,100 pages
 ```
 
 The first run downloads the embedding model once. Scanned PDFs without a text layer are skipped.
